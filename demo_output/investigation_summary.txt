@@ -1,0 +1,33 @@
+
+    ### 📊 Investigation Summary
+    
+    **Question Analyzed**: Investigate spike in engagement from May to July 2025
+    
+    **Key Findings**:
+    1. Metrics Analyzed: engagement, comments, shares
+    2. Number of Anomalies Detected: 4
+    
+    **Validated Hypotheses**:
+    
+- Significant increase in political content engagement during election period (Confidence: 85.00%)
+  Evidence: temporal_pattern, volume_increase
+  Key Correlations:
+    - engagement: 52.49%
+    - comments: 70.26%
+    - shares: 57.96%
+  Recommendations:
+    - Set up automated monitoring for similar temporal patterns
+    - Create volume-based alert thresholds
+- Seasonal factors combined with trending topics (Confidence: 65.00%)
+  Evidence: seasonal_pattern, trend_analysis
+  Key Correlations:
+    - engagement: 54.44%
+    - comments: 54.69%
+    - shares: 89.21%
+    
+    **Overall Recommendations**:
+    1. Monitor these metrics for similar patterns in future
+    2. Set up alerts for anomaly thresholds
+    3. Conduct deeper analysis on validated hypotheses
+    4. Review and update monitoring thresholds regularly
+    
