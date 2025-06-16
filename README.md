@@ -1,6 +1,6 @@
 # Investigation Agent 🔍
 
-An AI-powered system for analyzing metric anomalies in social media data with an interactive web interface.
+An AI-powered system for analyzing anomalies in metric data with an interactive web interface.
 
 ## Features 🌟
 
